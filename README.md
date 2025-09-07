@@ -1,5 +1,5 @@
-Balanced Binary Search Tree (BST) in JavaScript.
-Questo progetto implementa un albero binario di ricerca **bilanciato** (BST) in JavaScript.  
+Balanced Binary Search Tree (BST) in JavaScript. Questo progetto fa parte del corso [The Odin Project] (https://www.theodinproject.com/) .
+Implementa un albero binario di ricerca bilanciato (BST) in JavaScript.  
 Include funzioni per:  
 - Costruire l'albero da un array di numeri  
 - Inserire e cancellare nodi  
