@@ -12,7 +12,7 @@ Include funzioni per:
 Il progetto include anche una funzione `prettyPrint` per visualizzare l’albero in console.
 
 Come usare:
-3. Apri il terminale nella cartella del progetto.
-4. Esegui il file con Node:
+- Apri il terminale nella cartella del progetto.
+- Esegui il file con Node:
    ```bash
    node bst.js
